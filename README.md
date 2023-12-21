@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [learnig platzi code](https://github.com/maxiio178/JavaSE_poo)
 
-- 🌱 I’m currently learning **Spring Boot, Exprees, React.js and**
+- 🌱 I’m currently learning **Spring Boot, Exprees, React.js and Angular**
 
-- 👯 I’m looking to collaborate on [CRUD for my school](https://github.com/maxiio178/Noob-Crud-php)
+- 👯 I’m looking to collaborate on [CRUD for my school](https://github.com/maxiio178/Consolidados-Viajes-Dispuestos)
 
 - 🤝 I’m looking for help with [Qtile](https://github.com/maxiio178/doctfiles/tree/main/.config/qtile)
 
